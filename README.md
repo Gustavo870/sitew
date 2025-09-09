@@ -7,6 +7,9 @@ pip install requests beautifulsoup4 pillow imagehash numpy tensorflow
 
 
 CODIGO : 
+
+
+
 import os, time, requests, random
 from bs4 import BeautifulSoup
 from PIL import Image
